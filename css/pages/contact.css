@@ -1,0 +1,31 @@
+.contact-wrapper{
+    background-color: #f9f9f9;
+    padding: 80px 0;
+}
+
+.contact-wrapper h2{
+    font-size: 25px;
+    color: #000;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.contact-wrapper .form-control{
+    border: #000 solid 1px;
+}
+.contact-wrapper textarea{
+    min-height: 100px;
+}
+
+.contact-wrapper a{
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    display: block;
+    padding: 10px 0 !important;
+}
+
+.contact-wrapper a:hover{
+    background-color: #000;
+    color: #fff;
+}
